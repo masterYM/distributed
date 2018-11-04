@@ -1,45 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="691fe938-0ac6-4376-b1b7-cd80c08f46dc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_all_4_1_30_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/netty/src/main/java/com/duli/netty/basic/EchoClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/netty/src/main/java/com/duli/netty/basic/EchoClientHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/netty/src/main/java/com/duli/netty/basic/EchoServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/netty/src/main/java/com/duli/netty/basic/EchoServerHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/netty/src/main/java/com/duli/netty/bytebuf/ByteBufExamples.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/netty/src/main/java/com/duli/netty/echo/EchoClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/netty/src/main/java/com/duli/netty/echo/EchoClientHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/netty/src/main/java/com/duli/netty/echo/EchoServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/netty/src/main/java/com/duli/netty/echo/EchoServerHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nio/target/classes/CopyFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nio/target/classes/com/duli/demo/io/EchoClient.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nio/target/classes/com/duli/demo/io/MultiThreadedEchoServerV1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nio/target/classes/com/duli/demo/io/MultiThreadedEchoServerV2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nio/target/classes/com/duli/demo/io/SingleThreadEchoServer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nio/target/classes/com/duli/demo/io/ThreadedServerHandler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nio/target/classes/com/duli/demo/nio/buffers/BufferAccess.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nio/target/classes/com/duli/demo/nio/buffers/BufferCreate.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nio/target/classes/com/duli/demo/nio/buffers/BufferSlice.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nio/target/classes/com/duli/demo/nio/buffers/DuplicateBuffer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nio/target/classes/com/duli/demo/nio/buffers/SliceBuffer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nio/target/classes/com/duli/demo/nio/channels/CopyFile.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nio/target/classes/com/duli/demo/nio/demo/EchoHandler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nio/target/classes/com/duli/demo/nio/demo/NIOEchoClient.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nio/target/classes/com/duli/demo/nio/demo/NIOEchoClientHandler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nio/target/classes/com/duli/demo/nio/demo/NIOEchoServer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nio/target/classes/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nio/target/classes/logback.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nio/target/classes/news.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/netty/netty.iml" beforeDir="false" afterPath="$PROJECT_DIR$/netty/netty.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/netty/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/netty/pom.xml" afterDir="false" />
-    </list>
+    <list default="true" id="691fe938-0ac6-4376-b1b7-cd80c08f46dc" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/nio/target/" />
     <ignored path="$PROJECT_DIR$/netty/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -125,8 +87,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/netty/src/main/java/com/duli/netty/bytebuf/ByteBufExamples.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+            <state relative-caret-position="570">
+              <caret line="25" column="11" lean-forward="true" selection-start-line="25" selection-start-column="11" selection-end-line="25" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -346,7 +308,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541339112310" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541339653244" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/netty/pom.xml" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -357,6 +319,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\distributed\netty\src\main\java\com\duli\netty" />
       <recent name="D:\distributed\nio\src\main\resources" />
       <recent name="D:\distributed\nio\src\main\java\com\duli\demo\nio" />
     </key>
@@ -405,16 +368,15 @@
       <updated>1540825477157</updated>
       <workItem from="1540825480846" duration="1514000" />
       <workItem from="1540904272653" duration="869000" />
-      <workItem from="1541338065592" duration="1262000" />
+      <workItem from="1541338065592" duration="1583000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3645000" />
+    <option name="totallyTimeSpent" value="3966000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2553305" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -662,8 +624,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/netty/src/main/java/com/duli/netty/bytebuf/ByteBufExamples.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        <state relative-caret-position="570">
+          <caret line="25" column="11" lean-forward="true" selection-start-line="25" selection-start-column="11" selection-end-line="25" selection-end-column="11" />
         </state>
       </provider>
     </entry>
